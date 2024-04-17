@@ -1,0 +1,10 @@
+{
+  "about": {
+    "id": 1,
+    "fulname": "Mehemmed Hajyeff",
+    "title": "About-Mehemmed",
+    "description": "lorem leoremmorwjncejfnviernvjslnlsjdnvovnefvjd",
+    "postion": ["Front-End ", "MernStack", "Developer"],
+    "image": "../public/img/team-1.png"
+  }
+}
